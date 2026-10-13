@@ -1,6 +1,6 @@
-# Information Science Student Developer Community (ISDC)
+# Innovex Student Developer Community (ISDC)
 
-Welcome to the official GitHub repository of the **Information Science Student Developer Community (ISDC)**! We are a student-driven community from the **Information Science & Engineering Department** focused on building an ecosystem for students to learn, collaborate, and grow.
+Welcome to the official GitHub repository of the **Innovex Student Developer Community (ISDC)**! We are a student-driven community from the **Innovex & Engineering Department** focused on building an ecosystem for students to learn, collaborate, and grow.
 
 ## Our Mission
 Our mission is to empower young tech enthusiasts by providing opportunities in:
