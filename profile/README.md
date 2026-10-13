@@ -1,24 +1,33 @@
-# Innovex Student Developer Community (ISDC)
+<div align="center">
+  <img src="https://github.com/isdc-sahyadri/.github/raw/main/profile/ISDC-Logo-Full.svg" alt="ISDC Logo" width="550" />
+</div>
 
-Welcome to the official GitHub repository of the **Innovex Student Developer Community (ISDC)**! We are a student-driven community from the **Innovex & Engineering Department** focused on building an ecosystem for students to learn, collaborate, and grow.
+#  ISDC
+*Empowering developers through innovation, collaboration, and skill development in technology.*
 
-## Our Mission
-Our mission is to empower young tech enthusiasts by providing opportunities in:
-- **Training & Skill Development**: Helping students build real-world technical skills.
-- **Consultancy**: Offering consultancy services to peers and organizations.
-- **Open-Source Contributions**: Encouraging contributions to open-source projects and creating collaborative learning experiences.
-- **Earning Opportunities**: Providing avenues for students to earn through their skills and expertise.
+##  Our Mission
 
-## Get Involved
-- Join our **events**, **workshops**, and **training sessions** to enhance your skills.
-- Contribute to ongoing **projects** and collaborate with peers.
-- Participate in **mentorship** programs to guide and support fellow students.
+ISDC provides a comprehensive platform for aspiring developers and technology enthusiasts, offering:
+- **Skill Enhancement**: Workshops, training sessions, and practical projects
+- **Collaborative Projects**: Open-source initiatives and real-world solutions
+- **Professional Growth**: Networking with industry experts and alumni
+- **Innovation**: Creative problem-solving and cutting-edge technologies
 
-## Stay Connected
-Stay updated with our latest activities and initiatives through our GitHub repositories, discussions, and other channels.
+##  Get Involved
 
-Together, let's build a strong community where we grow, learn, and succeed!
+Join ISDC to contribute to the advancement of technology:
+- Participate in **events**, **hackathons**, and **workshops**
+- Contribute to **open-source projects** and collaborative initiatives
+- Engage in **mentorship programs** for mutual learning and guidance
+
+##  Connect with Us
+
+Follow our activities and connect with the community:
+- <a href="https://www.isdc.live/" target="_blank">Website</a>
+- <a href="https://www.instagram.com/isdc.sahyadri/" target="_blank">Instagram</a>
+- <a href="https://www.youtube.com/@isdc.sahyadri" target="_blank">YouTube</a>
+- <a href="https://www.linkedin.com/company/isdc-sahyadri/" target="_blank">LinkedIn</a>
 
 ---
 
-For more details, feel free to reach out to us via **[instagram](https://www.instagram.com/isdc.sahyadri/)**.
+*Together, we code, connect, and create a brighter technological future.* 
